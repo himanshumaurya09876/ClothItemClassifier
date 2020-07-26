@@ -1,6 +1,5 @@
-# ClothItemClassifier
-Clothing Items Classifier, this is a Deep Learning project which uses CNN algorithm for classification of clothable items into 10 different classes.
-<ul>
-<li>Classify fashioning clothable items.</li>
-<li>Uses CNN (Convolutional Neural Network) and fashionMNIST dataset.</li>
-</ul>
+# Clothing Items Classifier
+<li>A DL based project that classifies clothable items in to 10 different classes.</li>
+<li>Used CNN and fashionMNIST dataset.</li>
+<li>Used Conv2D, MaxPool2D, Flatten and Dense layers in CNN.</li>
+<li>Applied Callbacks: ModelCheckpoint and EarlyStopping in the model.</li>
